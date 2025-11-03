@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://ridaelmanssour.github.io/personal-page/sitemap.xml
+Sitemap: https://ridaelmanssour.github.io/personal-page/sitemap.txt
